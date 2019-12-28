@@ -8,4 +8,4 @@ Fork and clone repo & cd into directory
 $ npm install
 ```
 
-Open `package.json` to all the dependencies.
+Open `package.json` to see all the dependencies.
