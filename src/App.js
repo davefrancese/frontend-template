@@ -1,4 +1,7 @@
+// dependencies
 import React from "react";
+
+// files
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -19,7 +22,10 @@ function App(props) {
             <code>Redux-Thunk</code>
           </li>
           <li>
-            <code>react-router-dom</code>
+            <code>Redux-Logger</code>
+          </li>
+          <li>
+            <code>React-Router-Dom</code>
           </li>
         </ul>
       </header>
